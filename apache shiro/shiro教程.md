@@ -1,3 +1,7 @@
+---
+typora-root-url: ./image
+---
+
 # 一、权限的管理
 
 ## 1.1 什么是权限管理
@@ -26,7 +30,7 @@ Shiro是apache旗下一个开源框架，它将软件系统的安全认证相关
 
 # 三、shiro的核心架构
 
-![20210128190527](F:\学习笔记\apache shiro\image\20210128190527.png)
+![20210128190527](/20210128190527.png)
 
 ## 3.1 Subject
 
@@ -89,5 +93,5 @@ credential：凭证信息
 
 ## 4.3 认证流程
 
-![c525acf54f0ed950d6da0b848fba8f7f](F:\学习笔记\apache shiro\image\c525acf54f0ed950d6da0b848fba8f7f.png)
+![](/c525acf54f0ed950d6da0b848fba8f7f.png)
 
