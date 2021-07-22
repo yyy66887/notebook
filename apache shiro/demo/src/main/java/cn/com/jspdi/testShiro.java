@@ -24,7 +24,7 @@ public class testShiro {
         //获取令牌
         UsernamePasswordToken token = new UsernamePasswordToken("zhangsan", "123456");
 
-        subject.is
+//        subject.is
         try {
             System.out.println(subject.isAuthenticated());
             subject.login(token);
